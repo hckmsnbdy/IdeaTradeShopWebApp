@@ -18,8 +18,8 @@
   </style>
   
   <!-- "easy" text -->
-  <text x="10" y="110" class="easy-text">easy</text>
+  <text x="150" y="110" class="easy-text">Idea</text>
   
   <!-- "shop" text -->
-  <text x="28" y="160" class="shop-text">shop</text>
+  <text x="28" y="160" class="shop-text">TradeShop</text>
 </svg>
